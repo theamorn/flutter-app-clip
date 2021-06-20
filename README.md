@@ -1,6 +1,6 @@
 # appclip
 
-A new Flutter project.
+A demo to show AppClip with Flutter
 
 ## Getting Started
 
